@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.para {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: grey;
+  font-weight: 600;
+  margin: 20px;
+  border-width: 0px;
+}
+.list {
+  list-style-type: none;
+}

@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.app-bg-container {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  height: auto;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.input-container {
+  height: 100px;
+  width: 280px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.inputEl {
+  height: 40px;
+  width: 250px;
+}
+
+.tab-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.app-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
